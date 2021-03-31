@@ -1,2 +1,7 @@
+#Entire folders
 /out/
-.idea
+/.idea/
+
+#Files with extension
+*.idea
+*.iml
